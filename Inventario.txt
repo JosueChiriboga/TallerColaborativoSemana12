@@ -1,0 +1,8 @@
+Nombre:ChocoFresa
+Cantidad:300
+Precio:2.00
+
+Nombre:ChocoLimon
+Cantidad:900
+Precio:3.50
+
